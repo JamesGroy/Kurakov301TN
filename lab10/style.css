@@ -1,0 +1,40 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    padding: 20px;
+    margin: 0;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+    font-style: normal;
+}
+
+p {
+    text-align: justify;
+    margin: 20px 0;
+    font-style: italic;
+    font-size: 16px;
+}
+
+.red-line {
+    border-bottom: 2px solid red;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: green;
+}
